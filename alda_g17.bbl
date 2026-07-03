@@ -1,16 +1,4 @@
-\begin{thebibliography}{1}
-
-\bibitem{Bazarevskyetal2020}
-V.~Bazarevsky, I.~Grishchenko, K.~Raveendran, T.~Zhu, F.~Zhang, and
-  M.~Grundmann, ``Blazepose: On-device real-time body pose tracking,'' {\em
-  arXiv}, 2020.
-
-\bibitem{10.1007/978-3-319-10602-1_48}
-T.-Y. Lin, M.~Maire, S.~Belongie, J.~Hays, P.~Perona, D.~Ramanan,
-  P.~Doll{\'a}r, and C.~L. Zitnick, ``Microsoft coco: Common objects in
-  context,'' in {\em Computer Vision -- ECCV 2014} (D.~Fleet, T.~Pajdla,
-  B.~Schiele, and T.~Tuytelaars, eds.), (Cham), pp.~740--755, Springer
-  International Publishing, 2014.
+\begin{thebibliography}{10}
 
 \bibitem{Pauzietal2021}
 A.~S.~B. Pauzi, F.~B.~M. Nazri, S.~Sani, A.~M. Bataineh, M.~N. Hisyam, M.~H.
@@ -18,6 +6,17 @@ A.~S.~B. Pauzi, F.~B.~M. Nazri, S.~Sani, A.~M. Bataineh, M.~N. Hisyam, M.~H.
   mediapipe blazepose,'' in {\em Advances in Visual Informatics. IVIC 2021},
   vol.~13051 of {\em Lecture Notes in Computer Science}, pp.~590--600,
   Springer, Cham, 2021.
+
+\bibitem{Vintimilla2026}
+B.~X. Vintimilla, ``Propuestas de proyectos -- curso dip 2026 pao-i.''
+  Diapositivas de presentación, 2026.
+\newblock Escuela Superior Politécnica del Litoral (ESPOL), Facultad de
+  Ingeniería en Electricidad y Computación (FIEC).
+
+\bibitem{Bazarevskyetal2020}
+V.~Bazarevsky, I.~Grishchenko, K.~Raveendran, T.~Zhu, F.~Zhang, and
+  M.~Grundmann, ``Blazepose: On-device real-time body pose tracking,'' {\em
+  arXiv}, 2020.
 
 \bibitem{Lugaresietal2019}
 C.~Lugaresi, J.~Tang, H.~Nash, C.~McClanahan, E.~Uboweja, M.~Hays, F.~Zhang,
@@ -29,10 +28,41 @@ C.~Lugaresi, J.~Tang, H.~Nash, C.~McClanahan, E.~Uboweja, M.~Hays, F.~Zhang,
 G.~Bradski, ``The opencv library,'' {\em Dr. Dobb's Journal of Software Tools},
   2000.
 
-\bibitem{Vintimilla2026}
-B.~X. Vintimilla, ``Propuestas de proyectos -- curso dip 2026 pao-i.''
-  Diapositivas de presentación, 2026.
-\newblock Escuela Superior Politécnica del Litoral (ESPOL), Facultad de
-  Ingeniería en Electricidad y Computación (FIEC).
+\bibitem{Altayeb2023}
+M.~Altayeb, ``Hand gestures replicating robot arm based on mediapipe,'' {\em
+  Indonesian Journal of Electrical Engineering and Informatics (IJEEI)},
+  vol.~11, pp.~727--737, 09 2023.
+
+\bibitem{10.1007/978-3-319-10602-1_48}
+T.-Y. Lin, M.~Maire, S.~Belongie, J.~Hays, P.~Perona, D.~Ramanan,
+  P.~Doll{\'a}r, and C.~L. Zitnick, ``Microsoft coco: Common objects in
+  context,'' in {\em Computer Vision -- ECCV 2014} (D.~Fleet, T.~Pajdla,
+  B.~Schiele, and T.~Tuytelaars, eds.), (Cham), pp.~740--755, Springer
+  International Publishing, 2014.
+
+\bibitem{GonzalezWoods2018}
+R.~C. Gonzalez and R.~E. Woods, {\em Digital Image Processing}.
+\newblock Pearson, 4th~ed., 2018.
+
+\bibitem{Wang2020Fast}
+Z.~Wang, R.~Liang, Z.~Chen, and B.~Liang, ``Fast and intuitive kinematics
+  mapping for human-robot motion imitating: A virtual-joint-based approach,''
+  {\em IFAC-PapersOnLine}, vol.~53, no.~2, pp.~10011--10018, 2020.
+
+\bibitem{xuan2017vision}
+C.~Xuan, Z.~Tang, and J.~Xu, ``Vision-based robotic arm imitation by human
+  gesture,'' {\em arXiv preprint arXiv:1703.04906}, 2017.
+
+\bibitem{han2024robust}
+K.~Han, S.~Li, Z.~Li, Y.~Zhou, C.~Fu, and Y.~Xiong, ``Robust real-time upper
+  limb motion transfer from human to humanoid for manipulation skill
+  teaching,'' {\em Proceedings of the Institution of Mechanical Engineers, Part
+  C: Journal of Mechanical Engineering Science}, vol.~238, no.~5,
+  pp.~1522--1541, 2024.
+
+\bibitem{alibeigi2017inverse}
+M.~Alibeigi, S.~Rabiee, and M.~N. Ahmadabadi, ``Inverse kinematics based human
+  mimicking system using skeletal tracking technology,'' {\em Journal of
+  Intelligent \& Robotic Systems}, vol.~85, no.~1, pp.~27--45, 2017.
 
 \end{thebibliography}
