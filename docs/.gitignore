@@ -1,0 +1,58 @@
+# Archivos temporales principales de LaTeX
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# Archivos de bibliografía (bibtex/biblatex/biber)
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# Utilidades de compilación (latexmk)
+*.fdb_latexmk
+
+# SyncTeX (para sincronizar el editor con el PDF)
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Índices, glosarios y acrónimos
+*.alg
+*.loa
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.acn
+*.acr
+*.ist
+*.xdy
+
+# Archivos temporales de presentaciones (Beamer)
+*.nav
+*.snm
+*.vrb
+
+# PDFs generados automáticamente
+# (Comenta o elimina la siguiente línea si quieres que Git rastree tus PDFs finales)
+*.pdf
+
+# Archivos de respaldo y configuración de editores (VS Code, TeXstudio, etc.)
+.vscode/
+*.bak
+*.sav
+*.te~
